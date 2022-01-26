@@ -1,1 +1,31 @@
-
+#EXTM3U
+#EXTINF:-1,LRT Televizija
+plugin://plugin.video.iptv.lt/?channel=LTV1
+#EXTINF:-1,LNK
+plugin://plugin.video.iptv.lt/?channel=lnk-hd-kanalas-internetu
+#EXTINF:-1,TV3
+plugin://plugin.video.iptv.lt/?channel=TV3_LT_SD
+#EXTINF:-1,BTV
+plugin://plugin.video.iptv.lt/?channel=btv-hd-kanalas-internetu
+#EXTINF:-1,Lietuvos Rytas TV
+plugin://plugin.video.iptv.lt/?channel=lrytas
+#EXTINF:-1,TV6
+plugin://plugin.video.iptv.lt/?channel=TV6_LT_SD
+#EXTINF:-1,INFO TV
+plugin://plugin.video.iptv.lt/?channel=info-tv-hd-kanalas-internetu
+#EXTINF:-1,TV1
+plugin://plugin.video.iptv.lt/?channel=tv1-hd-kanalas-internetu
+#EXTINF:-1,2TV
+plugin://plugin.video.iptv.lt/?channel=2tv-hd-kanalas-internetu
+#EXTINF:-1,LRT Plius
+plugin://plugin.video.iptv.lt/?channel=LTV2
+#EXTINF:-1,LRT Lituanica
+plugin://plugin.video.iptv.lt/?channel=WORLD
+#EXTINF:-1,DW English
+plugin://plugin.video.iptv.lt/?channel=DW English
+#EXTINF:-1,DW Deutsch
+plugin://plugin.video.iptv.lt/?channel=DW Deutsch
+#EXTINF:-1,M-1
+plugin://plugin.video.iptv.lt/?channel=m-1
+#EXTINF:-1,Lietus
+plugin://plugin.video.iptv.lt/?channel=lietus
