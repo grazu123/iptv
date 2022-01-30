@@ -1,81 +1,181 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="*** LITHUANIA  - github.com/Free-IPTV" group-title="LITHUANIA" tvg-logo="https://i.imgur.com/t9dFrZw.png",*** LITHUANIA  - github.com/Free-IPTV
-https://
-https://raw.githubusercontent.com/Free-IPTV/Others/master/FreeIPTV.mp4
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/LRT_Lituanica.png" group-title="LITHUANIA",LRT
-https://lituanica-dvr.lrt.lt/lrt-ndvr/hls/lituanica_720p/index.m3u8 
-#EXTM3U
-#EXTINF:-1 tvg-name="*** AFGHANISTAN - github.com/Free-IPTV" group-title="AFGHANISTAN" tvg-logo="https://i.imgur.com/f7pAUiw.png",*** AFGHANISTAN - github.com/Free-IPTV
-https://
-#EXTINF:-1 tvg-name="Andisheh" tvg-logo="https://i.imgur.com/yCFIC60.jpg" group-title="AFGHANISTAN",Andisheh
-http://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
-#EXTINF:-1 tvg-name="Ariana Afghan" tvg-logo="https://i.imgur.com/N8dPVxT.jpg" group-title="AFGHANISTAN",Ariana Afghan
-http://iptv.arianaafgtv.com/ariana/playlist.m3u8
-#EXTINF:-1 tvg-name="ATN Europe" tvg-logo="https://i.imgur.com/m6tBPia.png",group-title="AFGHANISTAN",ATN Europe
-https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="ATN National" tvg-logo="https://i.imgur.com/m6tBPia.png",group-title="AFGHANISTAN",ATN National
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="ATN News" tvg-logo="https://i.imgur.com/dXoJANu.png",group-title="AFGHANISTAN",ATN News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="ATN USA" tvg-logo="https://i.imgur.com/m6tBPia.png" group-title="AFGHANISTAN",ATN USA
-https://d2g7v53450s2i2.cloudfront.net/ATNUS/myStream/playlist.m3u8
-#EXTINF:-1 tvg-name="Ayeneh TV" tvg-logo="https://i.imgur.com/tVHQ0Uj.png" group-title="AFGHANISTAN",Ayeneh TV
-https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/index.m3u8
-#EXTINF:-1 tvg-name="Bahar TV" tvg-logo="https://i.imgur.com/krTCdH8.png" group-title="AFGHANISTAN",Bahar TV
-https://59d39900ebfb8.streamlock.net/bahartv/bahartv/playlist.m3u8
-#EXTINF:-1 tvg-name="Caltex Music TV" tvg-logo="https://i.imgur.com/KIjRisr.png" group-title="AFGHANISTAN",Caltex Music TV
-https://vid1.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:-1 tvg-name="Dubai One (English)" tvg-logo="https://i.imgur.com/URfllL0.png" group-title="AFGHANISTAN",Dubai One (English)
-http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
-#EXTINF:-1 tvg-name="EBC1 Music TV" tvg-logo="https://i.imgur.com/RhwcgTI.jpg" group-title="AFGHANISTAN",EBC1 Music TV
-https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:-1 tvg-name="Ganje Hozour" tvg-logo="https://i.imgur.com/2aAomoj.jpg" group-title="AFGHANISTAN",Ganje Hozour
-http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
-#EXTINF:-1 tvg-name="Iman TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/NSc8mjS.jpg" group-title="AFGHANISTAN",Iman TV - github.com/Free-IPTV
-https://59d39900ebfb8.streamlock.net/imantv/imantv/playlist.m3u8
-#EXTINF:-1 tvg-name="Israel Pars TV" tvg-logo="https://i.imgur.com/gwCiH9e.jpg" group-title="AFGHANISTAN",Israel Pars TV
-https://live.pars-israel.com/iptv/stream.m3u8
-#EXTINF:-1 tvg-name="Kalemeh TV" tvg-logo="https://i.imgur.com/1qx0qjR.jpg" group-title="AFGHANISTAN",Kalemeh TV
-http://184.75.208.98:1935/live/kalemeh/playlist.m3u8
-#EXTINF:-1 tvg-name="Kayhan TV" tvg-logo="https://i.imgur.com/QKv5ivv.jpg" group-title="AFGHANISTAN",Kayhan TV
-http://208.93.117.113/live/Stream1/playlist.m3u8
-#EXTINF:-1 tvg-name="Manoto TV" tvg-logo="https://i.imgur.com/LUg5RoP.png" group-title="AFGHANISTAN",Manoto TV
-https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
-#EXTINF:-1 tvg-name="Mihan TV" tvg-logo="https://i.imgur.com/yl07Mvj.jpg" group-title="AFGHANISTAN",Mihan TV
-http://iptv.mihantv.com/live/playlist.m3u8
-#EXTINF:-1 tvg-name="Mohabat TV" tvg-logo="https://i.imgur.com/tucTC1O.jpg" group-title="AFGHANISTAN",Mohabat TV
-http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
-#EXTINF:-1 tvg-name="MTC" tvg-logo="https://i.imgur.com/RSFhk7n.jpg" group-title="AFGHANISTAN",MTC
-http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-name="Omid Javedan" tvg-logo="https://i.imgur.com/xtcpfck.png" group-title="AFGHANISTAN",Omid Javedan
-http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/index.m3u8
-#EXTINF:-1 tvg-name="Pamir TV" tvg-logo="https://i.imgur.com/3OK6Nj5.png" group-title="AFGHANISTAN",Pamir TV
-http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1 tvg-name="Parnian TV" tvg-logo="https://i.imgur.com/0CeWiFP.png" group-title="AFGHANISTAN",Parnian TV
-https://live2.parnian.tv/hls/live/play.m3u8
-#EXTINF:-1 tvg-name="ParsiLand TV - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/wriqEMC.png" group-title="AFGHANISTAN",ParsiLand TV - github.com/Free-IPTV
-http://vps.parsiland.net/hls/ParsiLand.m3u8
-#EXTINF:-1 tvg-name="Payvand TV" tvg-logo="https://i.imgur.com/l1MHF2F.jpg" group-title="AFGHANISTAN",Payvand TV
-http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8
-#EXTINF:-1 tvg-name="Payame Afghan" tvg-logo="https://i.imgur.com/Bfj28i8.jpg" group-title="AFGHANISTAN",Payame Afghan
-http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b086123b70.sdp/mono.m3u8
-#EXTINF:-1 tvg-name="Persian Bazar" tvg-logo="https://i.imgur.com/dmSorFv.jpg" group-title="AFGHANISTAN",Persian Bazar
-http://stream.persiantv1.com/ptv1/playlist.m3u8
-#EXTINF:-1 tvg-name="Radio Farda TV" tvg-logo="https://i.imgur.com/8VfjenB.png" group-title="AFGHANISTAN",Radio Farda TV
-https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
-#EXTINF:-1 tvg-name="Radio Javan TV" tvg-logo="https://i.imgur.com/cEfoKlV.jpg" group-title="AFGHANISTAN",Radio Javan TV
-https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-name="Shabakeh 7" tvg-logo="https://i.imgur.com/UWFT2fE.jpg" group-title="AFGHANISTAN",Shabakeh 7
-http://rtmp.abnsat.com/hls/txministry.m3u8
-#EXTINF:-1 tvg-name="Shamshad" tvg-logo="https://i.imgur.com/iJEeZ8O.jpg" group-title="AFGHANISTAN",Shamshad
-https://54627d4fc5996.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
-#EXTINF:-1 tvg-name="Simaye Azadi" tvg-logo="https://i.imgur.com/ZAndg1I.jpg" group-title="AFGHANISTAN",Simaye Azadi
-https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
-#EXTINF:-1 tvg-name="Tapesh - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/9qpF9jT.png" group-title="AFGHANISTAN",Tapesh - github.com/Free-IPTV
-http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
-#EXTINF:-1 tvg-name="TIN TV" tvg-logo="https://i.imgur.com/8yhxieZ.jpg" group-title="AFGHANISTAN",TIN TV
-https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
-#EXTINF:-1 tvg-name="VOA Persian" tvg-logo="https://i.imgur.com/y4C7Fyc.png" group-title="AFGHANISTAN",VOA Persian
-https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
-#EXTINF:-1 tvg-name="WATAN-E-MAA" tvg-logo="https://i.imgur.com/AJHDiLj.jpg" group-title="AFGHANISTAN",WATAN-E-MAA
-https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8 
+#EXTINF:-1,LRT Televizija
+plugin://plugin.video.iptv.lt/?channel=LTV1
+#EXTINF:-1,LNK
+plugin://plugin.video.iptv.lt/?channel=lnk-hd-kanalas-internetu
+#EXTINF:-1,TV3
+plugin://plugin.video.iptv.lt/?channel=TV3_LT_SD
+#EXTINF:-1,BTV
+plugin://plugin.video.iptv.lt/?channel=btv-hd-kanalas-internetu
+#EXTINF:-1,Lietuvos Rytas TV
+plugin://plugin.video.iptv.lt/?channel=lrytas
+#EXTINF:-1,TV6
+plugin://plugin.video.iptv.lt/?channel=TV6_LT_SD
+#EXTINF:-1,INFO TV
+plugin://plugin.video.iptv.lt/?channel=info-tv-hd-kanalas-internetu
+#EXTINF:-1,TV1
+plugin://plugin.video.iptv.lt/?channel=tv1-hd-kanalas-internetu
+#EXTINF:-1,2TV
+plugin://plugin.video.iptv.lt/?channel=2tv-hd-kanalas-internetu
+#EXTINF:-1,LRT Plius
+plugin://plugin.video.iptv.lt/?channel=LTV2
+#EXTINF:-1,LRT Lituanica
+plugin://plugin.video.iptv.lt/?channel=WORLD
+#EXTINF:-1,DW English
+plugin://plugin.video.iptv.lt/?channel=DW English
+#EXTINF:-1,DW Deutsch
+plugin://plugin.video.iptv.lt/?channel=DW Deutsch
+#EXTINF:-1,M-1
+plugin://plugin.video.iptv.lt/?channel=m-1
+#EXTINF:-1,Lietus
+plugin://plugin.video.iptv.lt/?channel=lietus
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964130/logotipai/radio/lietus_m7clbo.png",Lietus
+https://stream.m-1.fm/lietus/aacp64
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964131/logotipai/radio/m-1_razryf.png",M-1
+https://stream.m-1.fm/m1/aacp64
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964131/logotipai/radio/m-1_plius_p9se5o.png",M-1 Plius
+https://stream.m-1.fm/m1plius/aacp64
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964131/logotipai/radio/lrt_radijas_ml3b4a.png",LRT Radijas
+https://radijas.lrt.lt/radijas/lrt_radijas/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964130/logotipai/radio/lrt_klasika_sgk7cc.png",LRT Klasika
+https://radijas.lrt.lt/radijas/lrt_klasika/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964131/logotipai/radio/lrt_opus_pqpaio.png",LRT Opus
+https://radijas.lrt.lt/radijas/lrt_opus/playlist.m3u8
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964131/logotipai/radio/radio_centras_d5be5z.png",Radio Centras
+https://transliacija.rc.lt/rc128.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964131/logotipai/radio/pukas_pqnnfx.png",PÅ«kas
+http://82.135.234.195:8000/pukas.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1641739976/logotipai/radio/easyfm_rylt6l.png",Easy FM
+https://netradio.ziniur.lt/easyfm.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964133/logotipai/radio/ziniu_radijas_agpoxy.png",Å½iniÅ³ Radijas
+http://netradio.ziniur.lt/ziniur.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964130/logotipai/radio/gold_fm_csnypv.png",Gold FM
+http://82.135.234.195:8000/goldfm.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964130/logotipai/radio/european_hit_radio_talnqh.png",European Hit Radio
+http://82.135.234.195:8000/ehr.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1642870745/logotipai/radio/powerhitradio_lt6ezj.png",Power Hit Radio
+https://stream.powerhitradio.lt/PHR_AAC
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1642870748/logotipai/radio/powergold_xgy8v3.png",Power Hit Radio - GOLD
+https://stream.powerhitradio.lt/PHR_GOLD_AAC
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964133/logotipai/radio/zip_fm_bhjpco.png",Zip FM
+http://84.46.205.13/zipfm128.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964130/logotipai/radio/laluna_rhwv7h.png",Laluna
+http://stream.laluna.lt/laluna/mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964130/logotipai/radio/fm_99_vzjzzf.png",FM 99
+http://82.135.234.195:8000/fm99.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964132/logotipai/radio/x_fm_rlqfb5.png",X FM
+http://88.119.151.74:8001/xfm
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964132/logotipai/radio/rock_fm_np2lut.png",Rock FM
+http://5.20.223.18/crf128.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964130/logotipai/radio/extra_fm_gyorcv.png",Extra FM
+http://82.135.234.195:8000/extrafm.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964132/logotipai/radio/vaiku_radijas_ssq81u.png",VaikÅ³ Radijas
+http://88.119.151.74:8001/vaikuradijas
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964130/logotipai/radio/geras_fm_bbvgfm.png",Geras FM
+http://82.135.234.195:8000/gerasfm.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964131/logotipai/radio/raduga_bhpoco.png",Raduga
+http://radio.m-1.fm:80/raduga/high
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964131/logotipai/radio/marijos_radijas_mvhqwm.png",Marijos Radijas
+http://stream.marijosradijas.lt:8001/marijosradijas.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964131/logotipai/radio/manofm_bqazgk.png",Mano FM
+http://stream.manofm.lt/listen
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964132/logotipai/radio/relax_fm_eczhfi.png",Relax FM
+http://5.20.223.18/relaxfm128.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964130/logotipai/radio/kelyje_zgvjnm.png",Kelyje Vilnius
+http://82.135.234.195:8000/kelyje_vilnius.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964130/logotipai/radio/kelyje_zgvjnm.png",Kelyje Kaunas
+http://82.135.234.195:8000/kelyje_kaunas.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964130/logotipai/radio/kelyje_zgvjnm.png",Kelyje KlaipÄ—da
+http://82.135.234.195:8000/kelyje_klaipeda.mp3
+#EXTINF:-1 radio="true" tvg-logo="https://res.cloudinary.com/dbzdk1ybd/image/upload/v1614964132/logotipai/radio/rusradio_pmdsoj.png",RUSRADIO
+http://5.20.223.18:80/rrb64.aac
+#EXTINF:-1 tvg-id="BlackRussia.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/rzrOS3N.png" group-title="Entertainment",.black Russia (480p)
+https://okkotv-live.cdnvideo.ru/channel/Sony_Turbo.m3u8
+#EXTINF:-1 tvg-id="RedRussia.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/xUGWmyh.png" group-title="Entertainment",.red Russia (480p)
+https://okkotv-live.cdnvideo.ru/channel/Sony_ET.m3u8
+#EXTINF:-1 tvg-id="SciFiRussia.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/5ezLSwB.png" group-title="Science",.sci-fi Russia (480p)
+https://okkotv-live.cdnvideo.ru/channel/Sony_SciFi.m3u8
+#EXTINF:-1 tvg-id="5kanal.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/tWULJqX.png" group-title="General",5 канал (480p)
+https://okkotv-live.cdnvideo.ru/channel/5_OTT.m3u8
+#EXTINF:-1 tvg-id="A1.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/lXlwfyw.png" group-title="Series",A1 (1080p)
+https://okkotv-live.cdnvideo.ru/channel/A1_HD.m3u8
+#EXTINF:-1 tvg-id="A2.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/GwQgT6X.png" group-title="Series",A2 (1080p)
+https://okkotv-live.cdnvideo.ru/channel/A2_HD.m3u8
+#EXTINF:-1 tvg-id="AmediaHit.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/69315/2a0000016653697bea0c072bf5c5bc1c11ec/260x160" group-title="Movies",Amedia Hit (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Amedia_Hit_HD.m3u8
+#EXTINF:-1 tvg-id="BabyTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/9sWVrgR.png" group-title="Kids",Baby TV (480p) [Not 24/7]
+http://okkotv-live.cdnvideo.ru/channel/BabyTV.m3u8
+#EXTINF:-1 tvg-id="FoxLifeRussia.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/27k3DtT.png" group-title="Series",Fox Life Russia (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Fox_Life_HD.m3u8
+#EXTINF:-1 tvg-id="FoxRussia.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/992gw0d.png" group-title="Movies",Fox Russia (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicRussia.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.epg.best/id/NatGeo.id.png" group-title="Documentary",National Geographic (1080p)
+https://okkotv-live.cdnvideo.ru/channel/NGC_HD.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWildRussia.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="",National Geographic Wild Russia (1080p)
+https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
+#EXTINF:-1 tvg-id="TV1000ActionRussia.se" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/dzOFwC0.png" group-title="Movies",TV1000 Action Russia (1080p)
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
+#EXTINF:-1 tvg-id="TV1000HDRussia.se" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/7s3v0on.png" group-title="Movies",TV1000 Russia (1080p)
+https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
+#EXTINF:-1 tvg-id="TV1000RusskoeKino.se" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/iCUmr4k.png" group-title="Movies",TV1000 Русское кино (1080p)
+https://okkotv-live.cdnvideo.ru/channel/TV1000_Rus_Kino_HD.m3u8
+#EXTINF:-1 tvg-id="ViasatExploreRussia.se" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/CnKhbJ3.png" group-title="",Viasat Explore Russia (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Explore_HD.m3u8
+#EXTINF:-1 tvg-id="ViasatHistoryRussia.se" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/YU2vfQX.png" group-title="Documentary",Viasat History Russia (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Viasat_History_ad_HD.m3u8
+#EXTINF:-1 tvg-id="ViasatNatureRussia.se" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/YkvX94D.png" group-title="",Viasat Nature Russia (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Viasat_Nature_ad_HD.m3u8
+#EXTINF:-1 tvg-id="ViPComedyRussia.se" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/kHTdkiW.png" group-title="Comedy",ViP Comedy Russia (1080p)
+https://okkotv-live.cdnvideo.ru/channel/VIP_Comedy_HD.m3u8
+#EXTINF:-1 tvg-id="VIPMegahitRussia.se" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/KIy4kdc.png" group-title="Movies",VIP Megahit Russia (1080p)
+https://okkotv-live.cdnvideo.ru/channel/VIP_Megahit_HD.m3u8
+#EXTINF:-1 tvg-id="VIPPremiereRussia.se" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/s33q57W.png" group-title="Entertainment",VIP Premiere Russia (1080p)
+https://okkotv-live.cdnvideo.ru/channel/VIP_Premiere_HD.m3u8
+#EXTINF:-1 tvg-id="VIPSerialRussia.se" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/qtjt9qv.png" group-title="Series",VIP Serial Russia (1080p)
+https://okkotv-live.cdnvideo.ru/channel/VIP_Serial_HD.m3u8
+#EXTINF:-1 tvg-id="Dikayaohota.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/zO4fl6B.png" group-title="Outdoor",Дикая охота (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Dikaya_Ohota_HD.m3u8
+#EXTINF:-1 tvg-id="Dikayarybalka.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/SdenWkP.png" group-title="Outdoor",Дикая рыбалка (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Dikaya_Rybalka_HD.m3u8
+#EXTINF:-1 tvg-id="Dikiy.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/s9IkQPo.png" group-title="Outdoor",Дикий (480p)
+https://okkotv-live.cdnvideo.ru/channel/Dikiy.m3u8
+#EXTINF:-1 tvg-id="Domashniy.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Domashniy_tv_logo.svg/2000px-Domashniy_tv_logo.svg.png" group-title="Entertainment",Домашний (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Dom_HD_OTT.m3u8
+#EXTINF:-1 tvg-id="Zvezda.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/n9zLVyR.png" group-title="General",Звезда (480p)
+https://okkotv-live.cdnvideo.ru/channel/Zvezda_SD.m3u8
+#EXTINF:-1 tvg-id="Izvestiya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://iptvx.one/icn/izvestia.png" group-title="News",Известия (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Izvestiya_HD_2.m3u8
+#EXTINF:-1 tvg-id="Kaleydskop.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/sgDCVyG.png" group-title="",Калейдскоп (480p)
+https://okkotv-live.cdnvideo.ru/channel/Kaleidoskop.m3u8
+#EXTINF:-1 tvg-id="KanalDisney.us" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/Q9KoVy9.png" group-title="Kids",Канал Disney (480p)
+https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+#EXTINF:-1 tvg-id="Mir.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/mir_ru.jpg" group-title="General",Мир (480p)
+https://okkotv-live.cdnvideo.ru/channel/Mir_OTT.m3u8
+#EXTINF:-1 tvg-id="MuzTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/n7bGFXj.png" group-title="Music",Муз-ТВ (480p)
+https://okkotv-live.cdnvideo.ru/channel/MuzTV.m3u8
+#EXTINF:-1 tvg-id="Multilandiya.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/OwA1zSH.png" group-title="Kids",Мультиландия (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+#EXTINF:-1 tvg-id="Pervyykanal.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/iW5vhkb.png" group-title="General",Первый канал (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Pervii_Kanal_OTT_HD.m3u8
+#EXTINF:-1 tvg-id="RENTV.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/30303/2a0000016e89588796d4590c9dd4dda32ffc/170x100" group-title="General",РЕН ТВ (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Rentv_HD_OTT.m3u8
+#EXTINF:-1 tvg-id="Rossiya1HD.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/BNd83AQ.png" group-title="General",Россия 1 HD (1080p)
+https://okkotv-live.cdnvideo.ru/channel/Russia1HD.m3u8
+#EXTINF:-1 tvg-id="Rossiya24.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/wu7O85f.png" group-title="News",Россия 24 (480p)
+https://okkotv-live.cdnvideo.ru/channel/Russia24.m3u8
+#EXTINF:-1 tvg-id="RossiyaK.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/69315/2a000001600801de5fbb57debf44353568ee/orig" group-title="Culture",Россия К (480p)
+https://okkotv-live.cdnvideo.ru/channel/Russia_K_SD.m3u8
+#EXTINF:-1 tvg-id="Spas.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/6IcWl5r.png" group-title="Religious",СПАС (480p)
+https://okkotv-live.cdnvideo.ru/channel/Spas.m3u8
+#EXTINF:-1 tvg-id="STS.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/pJNWVAz.png" group-title="Family",СТС (1080p)
+https://okkotv-live.cdnvideo.ru/channel/CTC_HD_OTT.m3u8
+#EXTINF:-1 tvg-id="CTCKids.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/knWklye.png" group-title="Kids",СТС Kids (1080p)
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
+#EXTINF:-1 tvg-id="STSLove.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/GqaOhZp.png" group-title="Family",СТС Love (480p)
+https://okkotv-live.cdnvideo.ru/channel/CTC_Love_OTT_2.m3u8
+#EXTINF:-1 tvg-id="FeniksKino.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/JHPnrqe.png" group-title="Movies",Феникс Кино (480p)
+https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
+#EXTINF:-1 tvg-id="Che.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/nRD61Dw.png" group-title="Entertainment",Че (480p)
+https://okkotv-live.cdnvideo.ru/channel/Che_OTT_2.m3u8
+#EXTINF:-1 tvg-id="Yu.ru" tvg-country="RU" tvg-language="Russian" tvg-logo="https://i.imgur.com/1j5q5Ff.png" group-title="Entertainment",Ю (480p)
+https://okkotv-live.cdnvideo.ru/channel/Yu_OTT.m3u8
