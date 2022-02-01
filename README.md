@@ -474,14 +474,4 @@ https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZooMoo" tvg-logo="https://i.imgur.com/85LA7Zm.png" group-title="USA",ZooMoo
 https://rockentertainment-zoomoo-1.samsung.wurl.com/manifest/playlist.m3u8
 © 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
